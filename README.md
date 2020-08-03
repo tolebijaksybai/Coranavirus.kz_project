@@ -1,2 +1,2 @@
-# coranavirus.kz
-coranavirus.kz
+# hackaton
+First team hackaton
