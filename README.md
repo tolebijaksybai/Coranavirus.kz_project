@@ -1,0 +1,2 @@
+# coranavirus.kz
+coranavirus.kz
