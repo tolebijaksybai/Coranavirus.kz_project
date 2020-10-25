@@ -1,3 +1,3 @@
-# hackaton
-First team hackaton
-https://tolebijaksybai.github.io/coranavirus.kz/
+### Hackaton 
+<h4 align="left">и</h4>
+
