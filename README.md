@@ -1,5 +1,5 @@
 ### Hackaton 
-<h4 align="left">Хакатон от компания Ayat.in сайт о короновирусе Сделано в HTML, CSS, Bootstrap, JS, PHP, SQL(ДБ)</h4>
+<h4 align="left">Хакатон от компания <a href="https://ayatinn.kz">Ayat.in</a> (командная работа). Cайт о короновирусе Сделано в HTML, CSS, Bootstrap, JS, PHP, SQL(ДБ)</h4>
 <h4 align="left">В итоге</h4
 <br/>
 
